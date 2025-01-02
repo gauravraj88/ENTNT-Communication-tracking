@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js"
   },
-  "author": "Hmtgit7",
+  "author": "gauravsingh",
   "license": "ISC",
   "description": "Calendar Application for Communication Tracking",
   "dependencies": {
