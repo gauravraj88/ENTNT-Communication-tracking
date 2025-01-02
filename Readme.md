@@ -10,7 +10,7 @@ This application allows users to track and manage communication with companies. 
 
 ## Live Demo
 
-You can view a live demo of the application at [https://communication-calendar.netlify.app/](https://communication-calendar.netlify.app/).
+You can view a live demo of the application at [https://entnt-frontend-ten.vercel.app/].
 
 
 ## Features
@@ -200,7 +200,7 @@ entnt-backend/
 
 
 ## LIVE DEMO Pictures
-Link to the live demo: [https://communication-calendar.netlify.app/](https://communication-calendar.netlify.app/)
+Link to the live demo: [https://entnt-frontend-ten.vercel.app/]
 
 #### Desktop View
 
