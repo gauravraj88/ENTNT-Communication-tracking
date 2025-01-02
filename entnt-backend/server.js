@@ -68,7 +68,7 @@ app.use("/api", AuthRoutes);
 app.use('/api/analytics', analyticsRoutes);
 
 // Start Server
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5123;
 app.listen(PORT, () => {
   console.log(`\n\nServer running on http://localhost:${PORT} ✅\n\n`);
 });
